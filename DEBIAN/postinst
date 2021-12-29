@@ -1,0 +1,3 @@
+if [ "$1" = "configure" ]; then
+    chmod -R 555 /usr/share/ufhelper
+fi

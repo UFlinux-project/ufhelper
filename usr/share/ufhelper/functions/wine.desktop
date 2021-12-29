@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Install Windows Compatibility layer
+Exec=./functions/wine.sh
+Terminal=false
+Type=Application
+Icon=wine

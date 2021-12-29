@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Install Heroic Launcher
+Exec=./functions/game/gamefunctions/heroic.sh
+Terminal=false
+Type=Application
+Icon=heroic

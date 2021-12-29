@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Manage Java
+Exec=./functions/developer/developerfunctions/java.sh
+Terminal=false
+Type=Application
+Icon=java

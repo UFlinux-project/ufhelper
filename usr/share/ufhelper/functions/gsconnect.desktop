@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Install GSConnect phone companion
+Exec=./functions/gsconnect.sh
+Terminal=false
+Type=Application
+Icon=org.gnome.Shell.Extensions.GSConnect

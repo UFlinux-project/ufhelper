@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Game helper
+Exec=./functions/game/uflinux-helper-game
+Terminal=false
+Type=Application
+Icon=input-gaming

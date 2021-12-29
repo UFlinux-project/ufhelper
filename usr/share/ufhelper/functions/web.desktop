@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Install different Web Browser
+Exec=./functions/web.sh
+Terminal=false
+Type=Application
+Icon=web-browser

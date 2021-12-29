@@ -1,0 +1,9 @@
+#!/bin/sh
+yad \
+--icons \
+--read-dir="./functions/hardware/hardwarefunctions" \
+--title="UFlinux Hardware Helper" \
+--width=860 \
+--height=600 \
+--no-buttons \
+--single-click \

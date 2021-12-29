@@ -1,0 +1,9 @@
+#!/bin/sh
+yad \
+--icons \
+--read-dir="./functions/game/gamefunctions" \
+--title="UFlinux Game Helper" \
+--width=860 \
+--height=600 \
+--no-buttons \
+--single-click \

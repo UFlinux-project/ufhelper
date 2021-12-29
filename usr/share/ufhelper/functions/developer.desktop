@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Developer helper
+Exec=./functions/developer/uflinux-helper-developer
+Terminal=false
+Type=Application
+Icon=package_development

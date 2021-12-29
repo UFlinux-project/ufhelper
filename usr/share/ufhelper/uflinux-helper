@@ -1,0 +1,10 @@
+#!/bin/sh
+cd /usr/share/ufhelper
+yad \
+--icons \
+--read-dir="./functions" \
+--title="UFlinux Helper" \
+--width=860 \
+--height=600 \
+--no-buttons \
+--single-click \

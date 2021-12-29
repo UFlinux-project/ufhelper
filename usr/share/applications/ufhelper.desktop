@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=System;
+Exec=/usr/share/ufhelper/uflinux-helper
+Icon=/usr/share/ufhelper/ufhelperlogo.svg
+Keywords=helper,uflinux,manager
+Name=UFlinux Helper
+StartupNotify=true
+Terminal=false
+Type=Application
