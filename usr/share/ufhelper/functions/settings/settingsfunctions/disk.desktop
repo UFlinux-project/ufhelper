@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Manage Drives (gnome-disks)
+Exec=gnome-disks
+Terminal=false
+Type=Application
+Icon=drive-harddisk

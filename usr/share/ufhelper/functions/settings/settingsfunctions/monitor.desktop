@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=System resources viewer (gnome-monitor)
+Exec=gnome-system-monitor
+Terminal=false
+Type=Application
+Icon=gnome-system-monitor
