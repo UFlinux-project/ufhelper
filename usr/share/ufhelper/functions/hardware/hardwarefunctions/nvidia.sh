@@ -10,7 +10,7 @@ STEAMOPTION=$(zenity --list \
 
 case $STEAMOPTION in
   1)
-    gnome-terminal --title="Installing NVIDIA driver" -- bash -c "sudo apt install nvidia-driver firmware-misc-nonfree; zenity --info --title='Install NVIDIA driver' --text='Task is completed \n now please reboot'"  
+    gnome-terminal --title="Installing NVIDIA driver" -- bash -c "sudo apt install uf-nvidiameta; zenity --info --title='Install NVIDIA driver' --text='Task is completed \n now please reboot'"  
     ;;
   2)
     gnome-terminal --title="Installing Legacy driver" -- bash -c "sudo apt install -y nvidia-legacy-390xx-driver firmware-misc-nonfree; zenity --info --title='Install Legacy driver' --text='Task is completed \n now please reboot'"  
