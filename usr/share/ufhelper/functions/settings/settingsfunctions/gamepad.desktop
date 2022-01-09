@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Gamepad settings (jstest)
+Exec=jstest-gtk
+Terminal=false
+Type=Application
+Icon=sc-controller
