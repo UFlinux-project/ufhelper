@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Manage Debian packages (synaptic)
-Exec=synaptic-pkexec
-Terminal=false
-Type=Application
-Icon=debian-logo

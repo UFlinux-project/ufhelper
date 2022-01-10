@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Manage Firewall (GUFW)
-Exec=pkexec gufw
-Terminal=false
-Type=Application
-Icon=firewall-config

@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Manage NVIDIA drivers
-Exec=./functions/hardware/hardwarefunctions/nvidia.sh
-Terminal=false
-Type=Application
-Icon=nvidia

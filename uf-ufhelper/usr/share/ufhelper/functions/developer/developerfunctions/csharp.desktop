@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Manage C#
-Exec=./functions/developer/developerfunctions/csharp.sh
-Terminal=false
-Type=Application
-Icon=text-csharp

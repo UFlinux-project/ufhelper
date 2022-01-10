@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Setup Backups (pika)
-Exec=flatpak run org.gnome.World.PikaBackup
-Terminal=false
-Type=Application
-Icon=org.gnome.World.PikaBackup

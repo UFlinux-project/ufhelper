@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Manage Steam
-Exec=./functions/game/gamefunctions/steam.sh
-Terminal=false
-Type=Application
-Icon=steam

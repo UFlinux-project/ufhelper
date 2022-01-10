@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name[en_US]=Sysadmin helper
-Name=Pomocník Systémového správce
-Exec=./functions/system/uf-helper-system
-Terminal=false
-Type=Application
-Icon=network-server

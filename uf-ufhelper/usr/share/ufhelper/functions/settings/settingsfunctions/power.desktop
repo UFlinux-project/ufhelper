@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Manage Power options (TLPUI)
-Exec=tlpui
-Terminal=false
-Type=Application
-Icon=preferences-system-power

@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Software for Razer peripherials (polychromatic)
-Exec=./functions/hardware/hardwarefunctions/openrazer.sh
-Terminal=false
-Type=Application
-Icon=polychromatic

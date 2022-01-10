@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Manage Virtualization platforms
-Exec=./functions/system/systemfunctions/virt.sh
-Terminal=false
-Type=Application
-Icon=virt-manager-panel

@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Install OpenRGB
-Exec=./functions/hardware/hardwarefunctions/rgb.sh
-Terminal=false
-Type=Application
-Icon=openrgb

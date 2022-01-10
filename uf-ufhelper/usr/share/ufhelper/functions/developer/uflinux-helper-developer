@@ -1,9 +1,0 @@
-#!/bin/sh
-yad \
---icons \
---read-dir="./functions/developer/developerfunctions" \
---title="UFlinux Dev Helper" \
---width=860 \
---height=600 \
---no-buttons \
---single-click \

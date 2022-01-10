@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Sound effects (easyeffects)
-Exec=flatpak run com.github.wwmm.easyeffects
-Terminal=false
-Type=Application
-Icon=easyeffects

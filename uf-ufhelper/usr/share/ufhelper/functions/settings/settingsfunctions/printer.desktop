@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Advanced printer settings
-Exec=system-config-printer
-Terminal=false
-Type=Application
-Icon=system-config-printer

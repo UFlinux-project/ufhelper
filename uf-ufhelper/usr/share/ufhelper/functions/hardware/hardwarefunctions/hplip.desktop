@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Install managment GUI for HP printers and scanners
-Exec=./functions/hardware/hardwarefunctions/hplip.sh
-Terminal=false
-Type=Application
-Icon=hplip
