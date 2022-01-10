@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=Install different Web Browser
+Name[en_US]=Install different Web Browser
+Name[cs_CZ]=Nainstalovat jiný webový prohlížeč
 Exec=./functions/web.sh
 Terminal=false
 Type=Application

@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=Change Linux Kernel
+Name[en_US]=Change Linux Kernel
+Name[cs_CZ]=Změnit Linuxové jádro
 Exec=./functions/kernel.sh
 Terminal=false
 Type=Application

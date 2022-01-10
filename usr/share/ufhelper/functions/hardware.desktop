@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=Hardware and drivers helper
+Name[en_US]=Hardware and drivers helper
+Name[cs_CZ]=Pomocník s hardware a ovladači
 Exec=./functions/hardware/uflinux-helper-hardware
 Terminal=false
 Type=Application

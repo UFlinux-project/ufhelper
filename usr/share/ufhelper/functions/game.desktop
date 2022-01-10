@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=Game helper
+Name[en_US]=Game helper
+Name[cs_CZ]=Herní pomocník
 Exec=./functions/game/uflinux-helper-game
 Terminal=false
 Type=Application

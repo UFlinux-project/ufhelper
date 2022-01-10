@@ -1,2 +1,3 @@
 #!/bin/sh
-gnome-terminal --title="Installing GSConnect" -- bash -c "sudo apt install uf-gsconnect -y; gnome-extensions enable gsconnect@andyholmes.github.io; zenity --info --title='Install Windows Compatibility layer' --text='Task is completed \n now install KDEConnect app to your phone \n and you can pair them'" 
+. "locale/$LANG"
+gnome-terminal --title="$L_INSTALLING GSConnect" -- bash -c "sudo apt install uf-gsconnect -y; gnome-extensions enable gsconnect@andyholmes.github.io; zenity --info --title='$L_INSTALLED1 $L_GSCONNECTNAME $L_INSTALLED2' --text='$L_COMPLETED \n $L_GSCONNECTPHONE'" 
