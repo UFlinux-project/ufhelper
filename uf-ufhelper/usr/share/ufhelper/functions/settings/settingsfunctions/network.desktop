@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Advanced networking (nm-c-e)
+Exec=nm-connection-editor
+Terminal=false
+Type=Application
+Icon=network-wired

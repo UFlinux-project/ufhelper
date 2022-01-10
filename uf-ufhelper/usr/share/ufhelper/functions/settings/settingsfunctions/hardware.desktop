@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Hardware info and profiling (hardinfo)
+Exec=hardinfo
+Terminal=false
+Type=Application
+Icon=jockey

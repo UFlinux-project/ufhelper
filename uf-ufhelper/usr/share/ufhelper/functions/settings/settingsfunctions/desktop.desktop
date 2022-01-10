@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Advanced desktop customization (gnome-tweaks)
+Exec=gnome-tweaks
+Terminal=false
+Type=Application
+Icon=preferences-desktop-theme

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Install DBeaver (Database Client)
+Exec=./functions/system/systemfunctions/dbeaver.sh
+Terminal=false
+Type=Application
+Icon=dbeaver

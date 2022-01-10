@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name[en_US]=Advanced system settings
+Name[cs_CZ]=Pokročilá systémová nastavení
+Exec=./functions/settings/uflinux-helper-settings
+Terminal=false
+Type=Application
+Icon=settings

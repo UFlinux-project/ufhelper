@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Install Minecraft
+Exec=./functions/game/gamefunctions/minecraft.sh
+Terminal=false
+Type=Application
+Icon=minecraft

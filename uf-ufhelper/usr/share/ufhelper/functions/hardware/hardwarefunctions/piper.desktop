@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Software for Logitech, Etekcity, GSkill, Roccat, Steelseries mouses
+Exec=./functions/hardware/hardwarefunctions/piper.sh
+Terminal=false
+Type=Application
+Icon=gnome-mouse

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Manage Gestures (touche)
+Exec=flatpak run com.github.joseexposito.touche
+Terminal=false
+Type=Application
+Icon=libinput-gestures
