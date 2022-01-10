@@ -1,0 +1,12 @@
+#!/bin/sh
+#cd /usr/share/ufhelper
+cd /home/panmourovaty/Projekty/uflinuxdebs/uf-ufhelper/usr/share/ufhelper
+. "locale/$LANG"
+yad \
+--icons \
+--read-dir="./functions" \
+--title="UFlinux $L_HELPER" \
+--width=860 \
+--height=600 \
+--no-buttons \
+--single-click \
