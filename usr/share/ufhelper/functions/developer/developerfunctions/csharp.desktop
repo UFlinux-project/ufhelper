@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=Manage C#
+Name[en_US]=Manage C#
+Name[cs_CZ]=Možnosti C#
 Exec=./functions/developer/developerfunctions/csharp.sh
 Terminal=false
 Type=Application

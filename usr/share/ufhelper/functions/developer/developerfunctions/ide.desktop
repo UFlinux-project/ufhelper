@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=Install IDE/Code Editor
+Name[en_US]=Install IDE/Code Editor
+Name[cs_CZ]=Nainstalovat IDE/editor kódu
 Exec=./functions/developer/developerfunctions/ide.sh
 Terminal=false
 Type=Application

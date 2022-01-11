@@ -1,4 +1,5 @@
 L_HELPER="pomocník"
+L_DEVHELPER="Vývojářský pomocník"
 L_INSTALLING="Instaluji"
 L_INSTALLED1="Úloha nainstalovat"
 L_INSTALLED2="byla dokončena"
@@ -32,4 +33,10 @@ L_WEBDESC3="Prohlížeč zaměřený na soukromí uživatele založený na chrom
 L_WEBDESC4="Prohlížeč zaměřený na soukromí uživatele založený na firefoxu"
 L_WEBDESC5="Proprietární prohlížeč založená na chromium"
 L_WEBDESC6="Prohlížeč založený na chromium se spoustou funkcí"
+
+L_CSHARPNAME="Možnosti C#"
+L_CSHARPTEXT="Vyber si svůj framework"
+L_CSHARPDESC1="Multiplatformní C# framework"
+L_CSHARPDESC2="C# framework od Microsoftu"
+
 
