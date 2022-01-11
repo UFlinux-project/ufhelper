@@ -1,0 +1,35 @@
+L_HELPER="pomocník"
+L_INSTALLING="Instaluji"
+L_INSTALLED1="Úloha nainstalovat"
+L_INSTALLED2="byla dokončena"
+L_COMPLETED="Úloha byla dokončena"
+L_DESCRIPTION="Popisek"
+L_NAME="Jméno"
+
+#---------------------------------#
+
+L_WINENAME="Nástroj pro kompatibilitu s Windows"
+L_WINETEXT="Tento nástroj (WINE) vám umožní spustit některé aplikace z Windows"
+L_WINEDESC1="Nainstalovat WINE"
+L_WINEDESC2="Odstranit WINE"
+
+L_GSCONNECTNAME="Nástroj GSconnect"
+L_GSCONNECTPHONE="Nyní si na mobilní telefon nainstalujte aplikaci KDECONNECT"
+
+L_KERNELNAME="Změnit Linuxové jádro"
+L_KERNELTEXT1="UFlinux používá jádro linux-xanmod-lts a není doporučeno měnit ale pokud opravdu potřebujete nové jádro tento nástroj vám pomůže"
+L_KERNELDESC1="LTS jádro od xanmod.org"
+L_KERNELDESC2="Nejnovější jádro od xanmod.org"
+L_KERNELDESC3="Real-time jádro, užitečné např. pro streamování"
+L_KERNELDESC4="Jádro s TaskType časovačem"
+L_KERNELDESC5="Jádro z projektu Debian"
+
+L_WEBNAME="Nainstalovat jiný webový prohlížeč"
+L_WEBTEXT="Zde si vyberte váš oblíbený webový prohlížeč"
+L_WEBDESC1="Open-source verze prohlížeče Chrome"
+L_WEBDESC2="Dobře známý open-source prohlížeč"
+L_WEBDESC3="Prohlížeč zaměřený na soukromí uživatele založený na chromium"
+L_WEBDESC4="Prohlížeč zaměřený na soukromí uživatele založený na firefoxu"
+L_WEBDESC5="Proprietární prohlížeč založená na chromium"
+L_WEBDESC6="Prohlížeč založený na chromium se spoustou funkcí"
+
