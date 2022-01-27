@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Manage Remote Desktop
+Name[cs_CZ]=Nastavit vzdálený přístup k ploše
 Exec=./functions/system/systemfunctions/remotedesktop.sh
 Terminal=false
 Type=Application

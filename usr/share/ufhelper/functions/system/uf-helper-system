@@ -1,8 +1,15 @@
 #!/bin/sh
+if [ -f "locale/$LANG" ]
+then
+. "locale/$LANG"
+else
+. "locale/en_US.UTF-8"
+ echo "$LANG was not found, loading en_US.UTF-8"
+fi
 yad \
 --icons \
 --read-dir="./functions/system/systemfunctions" \
---title="UFlinux SysAdmin Helper" \
+--title="UFlinux $L_SYSTEMHELPER" \
 --width=860 \
 --height=600 \
 --no-buttons \

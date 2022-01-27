@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Manage Drives (gnome-disks)
+Name[cs_CZ]=Spravovat Disky (gnome-disks)
 Exec=gnome-disks
 Terminal=false
 Type=Application

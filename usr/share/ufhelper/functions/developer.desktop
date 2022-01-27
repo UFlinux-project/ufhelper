@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name[en_US]=Developer helper
+Name=Developer helper
 Name[cs_CZ]=Vývojářský pomocník
 Exec=./functions/developer/uflinux-helper-developer
 Terminal=false

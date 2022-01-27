@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Manage Gestures (touche)
+Name[cs_CZ]=Spravovat Gesta (touche)
 Exec=flatpak run com.github.joseexposito.touche
 Terminal=false
 Type=Application

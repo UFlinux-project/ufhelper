@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Sound effects (easyeffects)
+Name[cs_CZ]=Zvukové efekty (easyeffects)
 Exec=flatpak run com.github.wwmm.easyeffects
 Terminal=false
 Type=Application

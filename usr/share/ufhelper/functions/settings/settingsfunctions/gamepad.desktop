@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Gamepad settings (jstest)
+Name[cs_CZ]=Nastavení gamepadu (jstest)
 Exec=jstest-gtk
 Terminal=false
 Type=Application

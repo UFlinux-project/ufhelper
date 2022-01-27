@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Advanced printer settings
+Name[cs_CZ]=Pokročilé možnosti tiskáren
 Exec=system-config-printer
 Terminal=false
 Type=Application

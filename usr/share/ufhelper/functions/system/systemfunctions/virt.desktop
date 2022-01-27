@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Manage Virtualization platforms
+Name[cs_CZ]=Spravovat Virtualizační platformy
 Exec=./functions/system/systemfunctions/virt.sh
 Terminal=false
 Type=Application

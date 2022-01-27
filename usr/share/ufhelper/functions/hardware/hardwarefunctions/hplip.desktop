@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Install managment GUI for HP printers and scanners
+Name[cs_CZ]=Nainstalovat nástroj pro práci s tiskárnami a skenery od HP
 Exec=./functions/hardware/hardwarefunctions/hplip.sh
 Terminal=false
 Type=Application

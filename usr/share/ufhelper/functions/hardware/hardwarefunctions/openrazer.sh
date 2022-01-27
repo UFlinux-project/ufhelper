@@ -1,2 +1,9 @@
 #!/bin/bash
-gnome-terminal --title="Installing Razer software" -- bash -c "sudo apt install openrazer-meta polychromatic -y; zenity --info --title='Install Razer software' --text='Task is completed \n now please reboot'"
+if [ -f "locale/$LANG" ]
+then
+. "locale/$LANG"
+else
+. "locale/en_US.UTF-8"
+ echo "$LANG was not found, loading en_US.UTF-8"
+fi
+gnome-terminal --title="$L_INSTALLING Razer software" -- bash -c "sudo apt install openrazer-meta polychromatic -y; zenity --info --title='$L_INSTALLED1 Razer software' --text='$L_COMPLETEDRESTART'"

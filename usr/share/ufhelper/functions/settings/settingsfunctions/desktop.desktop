@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Advanced desktop customization (gnome-tweaks)
+Name[cs_CZ]=Pokročilé přizpůsobení vzhledu (gnome-tweaks)
 Exec=gnome-tweaks
 Terminal=false
 Type=Application

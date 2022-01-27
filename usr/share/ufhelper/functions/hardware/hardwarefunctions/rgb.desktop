@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Install OpenRGB
+Name[cs_CZ]=Nainstalovat OpenRGB
 Exec=./functions/hardware/hardwarefunctions/rgb.sh
 Terminal=false
 Type=Application

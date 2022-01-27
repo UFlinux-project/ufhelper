@@ -1,5 +1,5 @@
 Package: uf-uf-helper
-Version: 0.5
+Version: 0.6
 Architecture: all
 Depends: zenity, yad, gnome-terminal, flatpak, apt, apt-transport-https
 Maintainer: UFlinux

@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Software for Razer peripherials (polychromatic)
+Name[cs_CZ]=Nainstalovat software pro periférie od Razeru (polychromatic)
 Exec=./functions/hardware/hardwarefunctions/openrazer.sh
 Terminal=false
 Type=Application

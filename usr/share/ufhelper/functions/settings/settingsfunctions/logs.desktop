@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=View system logs (gnome-logs)
+Name[cs_CZ]=Prohlížet systémové záznamy (gnome-logs)
 Exec=gnome-logs
 Terminal=false
 Type=Application

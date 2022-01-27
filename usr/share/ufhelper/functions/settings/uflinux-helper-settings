@@ -1,9 +1,16 @@
 #!/bin/sh
+if [ -f "locale/$LANG" ]
+then
+. "locale/$LANG"
+else
+. "locale/en_US.UTF-8"
+ echo "$LANG was not found, loading en_US.UTF-8"
+fi
 yad \
 --icons \
---text="Here are configuration apps that may be not obvious, other settings might be in Settings app or try searching for them" \
+--text="$L_ADVSETTINGSTEXT" \
 --read-dir="./functions/settings/settingsfunctions" \
---title="UFlinux Advanced Settings" \
+--title="UFlinux $L_ADVSETTINGSNAME" \
 --width=860 \
 --height=600 \
 --no-buttons \

@@ -4,8 +4,10 @@ L_INSTALLING="Instaluji"
 L_INSTALLED1="Úloha nainstalovat"
 L_INSTALLED2="byla dokončena"
 L_COMPLETED="Úloha byla dokončena"
+L_COMPLETEDRESTART="Úloha byla dokončena \n nyní prosím restartujte PC"
 L_DESCRIPTION="Popisek"
 L_NAME="Jméno"
+L_TECH="Technologie"
 
 #---------------------------------#
 
@@ -39,4 +41,23 @@ L_CSHARPTEXT="Vyber si svůj framework"
 L_CSHARPDESC1="Multiplatformní C# framework"
 L_CSHARPDESC2="C# framework od Microsoftu"
 
+L_SYSTEMHELPER="Pomocník systémového administrátora"
 
+L_REMOTENAME="Vyberte nástroj pro práci se vzdálenou plochou"
+L_REMOTEDESC1="Vzdálená pomoc pomocí RDP"
+L_REMOTEDESC2="Dobře známý program pro vzdálenou pomoc"
+L_REMOTEDESC3="Multiplatformní nástroj pro práci vzdáleně"
+
+L_VIRTNAME="Vyberte si svou virtualizační platformu"
+L_VIRTDESC1="Otevře GNOME Boxes - výchozí virtualizační platfromu pro UFlinux"
+L_VIRTDESC2="Pokročilý nástroj pro virtualizaci pomocí KVM"
+L_VIRTDESC3="Dobře známý nástroj pro virtualizaci"
+
+L_HARDWAREHELPER="pomocník s hardwarem"
+L_NVNAME="Vyberte ovladač"
+L_NVDESC1="Doporučený ovladač pro moderní GPU"
+L_NVDESC2="Ovladač pro starší GPU - NVIDIA 500 series (Fermi) a starší"
+L_NVDESC3="Ovladače a nástroje pro notebooky s dedikovým GPU"
+
+L_ADVSETTINGSNAME="Pokročilé nastavení"
+L_ADVSETTINGSTEXT="Zde jsou aplikace které slouží k pokročilé konfiguraci systému, ostatní možnosti jsou v aplikaci nastevení"

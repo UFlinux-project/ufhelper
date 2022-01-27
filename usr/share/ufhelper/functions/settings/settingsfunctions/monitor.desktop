@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=System resources viewer (gnome-monitor)
+Name[cs_CZ]=Správce úloh (gnome-monitor)
 Exec=gnome-system-monitor
 Terminal=false
 Type=Application

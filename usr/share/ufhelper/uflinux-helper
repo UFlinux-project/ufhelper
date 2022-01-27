@@ -1,6 +1,12 @@
 #!/bin/sh
 cd /usr/share/ufhelper
+if [ -f "locale/$LANG" ]
+then
 . "locale/$LANG"
+else
+. "locale/en_US.UTF-8"
+ echo "$LANG was not found, loading en_US.UTF-8"
+fi
 yad \
 --icons \
 --read-dir="./functions" \

@@ -1,0 +1,63 @@
+L_HELPER="helper"
+L_DEVHELPER="Developer Helper"
+L_INSTALLING="Installing"
+L_INSTALLED1="Task to install"
+L_INSTALLED2="was completed"
+L_COMPLETED="Task is complete"
+L_COMPLETEDRESTART="Task is complete \n now please reboot your PC"
+L_DESCRIPTION="Description"
+L_NAME="Name"
+L_TECH="Tech"
+
+#---------------------------------#
+
+L_WINENAME="Window compatibility tool"
+L_WINETEXT="This tool (WINE) will allow you to run some Windows apps"
+L_WINEDESC1="Install WINE"
+L_WINEDESC2="Remove WINE"
+
+L_GSCONNECTNAME="GSconnect tool"
+L_GSCONNECTPHONE="Now please install KDECONNECT app on your phone"
+
+L_KERNELNAME="Change linux kernel"
+L_KERNELTEXT1="UFlinux uses linux-xanmod-lts and its not recommended to change it but if you really need newer kernel then this tool will help you"
+L_KERNELDESC1="LTS kernel from xanmod.org"
+L_KERNELDESC2="Latest kernel from xanmod.org"
+L_KERNELDESC3="Real-time kernel, useful for for example streaming"
+L_KERNELDESC4="Kernel with TaskType scheduler"
+L_KERNELDESC5="Kernel from Debian project"
+
+L_WEBNAME="Install different web browser"
+L_WEBTEXT="Here you can select your favourite web browser"
+L_WEBDESC1="Open-source version of Chrome Browser"
+L_WEBDESC2="Well-known open-source browser"
+L_WEBDESC3="Privacy focused browser based on chromium"
+L_WEBDESC4="Privacy focused browser based on firefox"
+L_WEBDESC5="Proprietary browser based on chromium"
+L_WEBDESC6="Feature rich browser based on chromium"
+
+L_CSHARPNAME="C# options"
+L_CSHARPTEXT="Choose your framework"
+L_CSHARPDESC1="Multiplatform C# framework"
+L_CSHARPDESC2="C# framework from Microsoft"
+
+L_SYSTEMHELPER="SysAdmin helper"
+
+L_REMOTENAME="Choose Remote assistance tool"
+L_REMOTEDESC1="Remote assistance via VNC"
+L_REMOTEDESC2="Wel-known remote assistance tool"
+L_REMOTEDESC3="Multiplatform tool for remote work"
+
+L_VIRTNAME="Choose your virtualization platform"
+L_VIRTDESC1="Opens GNOME Boxes - UFlinux default virtualization"
+L_VIRTDESC2="Advanced KVM frontend"
+L_VIRTDESC3="Well-known virtualization tool"
+
+L_HARDWAREHELPER="Hardware helper"
+L_NVNAME="Choose your driver"
+L_NVDESC1="Recommended driver for modern GPUs"
+L_NVDESC2="Driver for older GPUs - NVIDIA 500 series (Fermi) and older"
+L_NVDESC3="Drivers and tools for laptops with dedicated GPU"
+
+L_ADVSETTINGSNAME="Advanced Settings"
+L_ADVSETTINGSTEXT="Here are configuration apps that may be not obvious, other settings might be in Settings app or try searching for them"

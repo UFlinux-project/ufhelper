@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Manage Debian packages (synaptic)
+Name[cs_CZ]=Spravovat balíčky debianu (synaptic)
 Exec=synaptic-pkexec
 Terminal=false
 Type=Application

@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Setup Backups (pika)
+Name[cs_CZ]=Nastavit Zálohy (pika)
 Exec=flatpak run org.gnome.World.PikaBackup
 Terminal=false
 Type=Application

@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name[en_US]=Install Windows Compatibility layer
+Name=Install Windows Compatibility layer
 Name[cs_CZ]=Nainstalovat nástroj pro kompatibilitu s Windows
 Exec=./functions/wine.sh
 Terminal=false

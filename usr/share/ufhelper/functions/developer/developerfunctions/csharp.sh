@@ -1,5 +1,11 @@
 #!/bin/sh
+if [ -f "locale/$LANG" ]
+then
 . "locale/$LANG"
+else
+. "locale/en_US.UTF-8"
+ echo "$LANG was not found, loading en_US.UTF-8"
+fi
 SHARPOPTION=$(zenity --list \
 --width=500 --height=300 \
 --title="$L_CSHARPNAME" \

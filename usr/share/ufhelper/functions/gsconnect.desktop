@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name[en_US]=Install GSConnect phone companion
+Name=Install GSConnect phone companion
 Name[cs_CZ]=Nainstalovat propojení s telefonem GSConnect
 Exec=./functions/gsconnect.sh
 Terminal=false

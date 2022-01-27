@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Install Apache Directory Studio (LDAP Client)
+Name[cs_CZ]=Nainstalovat Apache Directory Studio (LDAP Client)
 Exec=./functions/system/systemfunctions/apachedirectorystudio.sh
 Terminal=false
 Type=Application

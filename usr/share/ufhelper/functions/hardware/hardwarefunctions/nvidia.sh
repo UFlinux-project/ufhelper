@@ -1,21 +1,28 @@
 #!/bin/bash
+if [ -f "locale/$LANG" ]
+then
+. "locale/$LANG"
+else
+. "locale/en_US.UTF-8"
+ echo "$LANG was not found, loading en_US.UTF-8"
+fi
 STEAMOPTION=$(zenity --list \
 --width=500 --height=300 \
---title="Choose your driver" \
---column="ID" --column="Name" --column="Description" --hide-column 1 \
-1 "NVIDIA driver" "NVIDIA driver for modern GPUs" \
-2 "Legacy driver" "Legacy driver for NVIDIA 500 series (Fermi) and older" \
-3 "Hybrid driver" "Tools and drivers for laptops with hybrid graphics" \
+--title="$L_NVNAME" \
+--column="ID" --column="$L_NAME" --column="$L_DESCRIPTION" --hide-column 1 \
+1 "NVIDIA driver" "$L_NVDESC1" \
+2 "Legacy driver" "$L_NVDESC2" \
+3 "Hybrid driver" "$L_NVDESC3" \
 )
 
 case $STEAMOPTION in
   1)
-    gnome-terminal --title="Installing NVIDIA driver" -- bash -c "sudo apt install uf-nvidiameta; zenity --info --title='Install NVIDIA driver' --text='Task is completed \n now please reboot'"  
+    gnome-terminal --title="$L_INSTALLING NVIDIA driver" -- bash -c "sudo apt install uf-nvidiameta; zenity --info --title='$L_INSTALLED1 NVIDIA driver' --text='$L_COMPLETEDRESTART'"  
     ;;
   2)
-    gnome-terminal --title="Installing Legacy driver" -- bash -c "sudo apt install -y nvidia-legacy-390xx-driver firmware-misc-nonfree; zenity --info --title='Install Legacy driver' --text='Task is completed \n now please reboot'"  
+    gnome-terminal --title="$L_INSTALLING Legacy driver" -- bash -c "sudo apt install -y nvidia-legacy-390xx-driver firmware-misc-nonfree; zenity --info --title='$L_INSTALLED1 Legacy driver' --text='$L_COMPLETEDRESTART'"  
     ;;
   3)
-    gnome-terminal --title="Installing Optimus driver" -- bash -c "sudo apt install nvidia-driver firmware-misc-nonfree switcheroo-control bumblebee bumblebee-nvidia -y; zenity --info --title='Install Optimus driver' --text='Task is completed \n now please reboot'"
+    gnome-terminal --title="$L_INSTALLING Hybrid driver" -- bash -c "sudo apt install nvidia-driver firmware-misc-nonfree switcheroo-control bumblebee bumblebee-nvidia -y; zenity --info --title='$L_INSTALLED1 Optimus driver' --text='$L_COMPLETEDRESTART'"
     ;;
 esac

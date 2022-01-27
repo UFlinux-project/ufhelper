@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Manage NVIDIA drivers
+Name[cs_CZ]=Spravovat ovladače NVIDIA
 Exec=./functions/hardware/hardwarefunctions/nvidia.sh
 Terminal=false
 Type=Application
